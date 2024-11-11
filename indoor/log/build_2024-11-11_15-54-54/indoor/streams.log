@@ -1,0 +1,37 @@
+[0.423s] Invoking command in '/home/ryan/Desktop/CS560env/indoor': PYTHONPATH=/home/ryan/Desktop/CS560env/indoor/build/indoor/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ryan/Desktop/CS560env/indoor/install/indoor/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base build/indoor build --build-base /home/ryan/Desktop/CS560env/indoor/build/indoor/build install --record /home/ryan/Desktop/CS560env/indoor/build/indoor/install.log --single-version-externally-managed install_data
+[0.582s] running egg_info
+[0.582s] creating build/indoor/indoor.egg-info
+[0.582s] writing build/indoor/indoor.egg-info/PKG-INFO
+[0.583s] writing dependency_links to build/indoor/indoor.egg-info/dependency_links.txt
+[0.583s] writing entry points to build/indoor/indoor.egg-info/entry_points.txt
+[0.583s] writing requirements to build/indoor/indoor.egg-info/requires.txt
+[0.583s] writing top-level names to build/indoor/indoor.egg-info/top_level.txt
+[0.583s] writing manifest file 'build/indoor/indoor.egg-info/SOURCES.txt'
+[0.584s] reading manifest file 'build/indoor/indoor.egg-info/SOURCES.txt'
+[0.584s] writing manifest file 'build/indoor/indoor.egg-info/SOURCES.txt'
+[0.584s] running build
+[0.584s] running build_py
+[0.584s] creating /home/ryan/Desktop/CS560env/indoor/build/indoor/build
+[0.584s] creating /home/ryan/Desktop/CS560env/indoor/build/indoor/build/lib
+[0.584s] creating /home/ryan/Desktop/CS560env/indoor/build/indoor/build/lib/indoor
+[0.584s] copying indoor/__init__.py -> /home/ryan/Desktop/CS560env/indoor/build/indoor/build/lib/indoor
+[0.584s] running install
+[0.585s] running install_lib
+[0.585s] creating /home/ryan/Desktop/CS560env/indoor/install/indoor/lib/python3.10/site-packages/indoor
+[0.585s] copying /home/ryan/Desktop/CS560env/indoor/build/indoor/build/lib/indoor/__init__.py -> /home/ryan/Desktop/CS560env/indoor/install/indoor/lib/python3.10/site-packages/indoor
+[0.585s] byte-compiling /home/ryan/Desktop/CS560env/indoor/install/indoor/lib/python3.10/site-packages/indoor/__init__.py to __init__.cpython-310.pyc
+[0.585s] running install_data
+[0.586s] creating /home/ryan/Desktop/CS560env/indoor/install/indoor/share/ament_index
+[0.586s] creating /home/ryan/Desktop/CS560env/indoor/install/indoor/share/ament_index/resource_index
+[0.586s] creating /home/ryan/Desktop/CS560env/indoor/install/indoor/share/ament_index/resource_index/packages
+[0.586s] copying resource/indoor -> /home/ryan/Desktop/CS560env/indoor/install/indoor/share/ament_index/resource_index/packages
+[0.586s] copying package.xml -> /home/ryan/Desktop/CS560env/indoor/install/indoor/share/indoor
+[0.586s] creating /home/ryan/Desktop/CS560env/indoor/install/indoor/share/indoor/launch
+[0.586s] copying launch/webots_launch.py -> /home/ryan/Desktop/CS560env/indoor/install/indoor/share/indoor/launch
+[0.586s] creating /home/ryan/Desktop/CS560env/indoor/install/indoor/share/indoor/worlds
+[0.586s] copying worlds/my_world.wbt -> /home/ryan/Desktop/CS560env/indoor/install/indoor/share/indoor/worlds
+[0.586s] running install_egg_info
+[0.588s] Copying build/indoor/indoor.egg-info to /home/ryan/Desktop/CS560env/indoor/install/indoor/lib/python3.10/site-packages/indoor-0.0.0-py3.10.egg-info
+[0.589s] running install_scripts
+[0.602s] writing list of installed files to '/home/ryan/Desktop/CS560env/indoor/build/indoor/install.log'
+[0.621s] Invoked command in '/home/ryan/Desktop/CS560env/indoor' returned '0': PYTHONPATH=/home/ryan/Desktop/CS560env/indoor/build/indoor/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ryan/Desktop/CS560env/indoor/install/indoor/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base build/indoor build --build-base /home/ryan/Desktop/CS560env/indoor/build/indoor/build install --record /home/ryan/Desktop/CS560env/indoor/build/indoor/install.log --single-version-externally-managed install_data

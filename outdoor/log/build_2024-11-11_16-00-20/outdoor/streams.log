@@ -1,0 +1,37 @@
+[0.421s] Invoking command in '/home/ryan/Desktop/CS560env/CS560IndoorOutdoorEnv/outdoor': PYTHONPATH=/home/ryan/Desktop/CS560env/CS560IndoorOutdoorEnv/outdoor/build/outdoor/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ryan/Desktop/CS560env/CS560IndoorOutdoorEnv/outdoor/install/outdoor/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base build/outdoor build --build-base /home/ryan/Desktop/CS560env/CS560IndoorOutdoorEnv/outdoor/build/outdoor/build install --record /home/ryan/Desktop/CS560env/CS560IndoorOutdoorEnv/outdoor/build/outdoor/install.log --single-version-externally-managed install_data
+[0.578s] running egg_info
+[0.579s] creating build/outdoor/outdoor.egg-info
+[0.579s] writing build/outdoor/outdoor.egg-info/PKG-INFO
+[0.579s] writing dependency_links to build/outdoor/outdoor.egg-info/dependency_links.txt
+[0.579s] writing entry points to build/outdoor/outdoor.egg-info/entry_points.txt
+[0.579s] writing requirements to build/outdoor/outdoor.egg-info/requires.txt
+[0.579s] writing top-level names to build/outdoor/outdoor.egg-info/top_level.txt
+[0.579s] writing manifest file 'build/outdoor/outdoor.egg-info/SOURCES.txt'
+[0.580s] reading manifest file 'build/outdoor/outdoor.egg-info/SOURCES.txt'
+[0.581s] writing manifest file 'build/outdoor/outdoor.egg-info/SOURCES.txt'
+[0.581s] running build
+[0.581s] running build_py
+[0.581s] creating /home/ryan/Desktop/CS560env/CS560IndoorOutdoorEnv/outdoor/build/outdoor/build
+[0.581s] creating /home/ryan/Desktop/CS560env/CS560IndoorOutdoorEnv/outdoor/build/outdoor/build/lib
+[0.581s] creating /home/ryan/Desktop/CS560env/CS560IndoorOutdoorEnv/outdoor/build/outdoor/build/lib/outdoor
+[0.581s] copying outdoor/__init__.py -> /home/ryan/Desktop/CS560env/CS560IndoorOutdoorEnv/outdoor/build/outdoor/build/lib/outdoor
+[0.581s] running install
+[0.581s] running install_lib
+[0.582s] creating /home/ryan/Desktop/CS560env/CS560IndoorOutdoorEnv/outdoor/install/outdoor/lib/python3.10/site-packages/outdoor
+[0.582s] copying /home/ryan/Desktop/CS560env/CS560IndoorOutdoorEnv/outdoor/build/outdoor/build/lib/outdoor/__init__.py -> /home/ryan/Desktop/CS560env/CS560IndoorOutdoorEnv/outdoor/install/outdoor/lib/python3.10/site-packages/outdoor
+[0.582s] byte-compiling /home/ryan/Desktop/CS560env/CS560IndoorOutdoorEnv/outdoor/install/outdoor/lib/python3.10/site-packages/outdoor/__init__.py to __init__.cpython-310.pyc
+[0.582s] running install_data
+[0.582s] creating /home/ryan/Desktop/CS560env/CS560IndoorOutdoorEnv/outdoor/install/outdoor/share/ament_index
+[0.582s] creating /home/ryan/Desktop/CS560env/CS560IndoorOutdoorEnv/outdoor/install/outdoor/share/ament_index/resource_index
+[0.582s] creating /home/ryan/Desktop/CS560env/CS560IndoorOutdoorEnv/outdoor/install/outdoor/share/ament_index/resource_index/packages
+[0.583s] copying resource/outdoor -> /home/ryan/Desktop/CS560env/CS560IndoorOutdoorEnv/outdoor/install/outdoor/share/ament_index/resource_index/packages
+[0.583s] copying package.xml -> /home/ryan/Desktop/CS560env/CS560IndoorOutdoorEnv/outdoor/install/outdoor/share/outdoor
+[0.583s] creating /home/ryan/Desktop/CS560env/CS560IndoorOutdoorEnv/outdoor/install/outdoor/share/outdoor/launch
+[0.583s] copying launch/webots_launch.py -> /home/ryan/Desktop/CS560env/CS560IndoorOutdoorEnv/outdoor/install/outdoor/share/outdoor/launch
+[0.583s] creating /home/ryan/Desktop/CS560env/CS560IndoorOutdoorEnv/outdoor/install/outdoor/share/outdoor/worlds
+[0.583s] copying worlds/my_world.wbt -> /home/ryan/Desktop/CS560env/CS560IndoorOutdoorEnv/outdoor/install/outdoor/share/outdoor/worlds
+[0.584s] running install_egg_info
+[0.586s] Copying build/outdoor/outdoor.egg-info to /home/ryan/Desktop/CS560env/CS560IndoorOutdoorEnv/outdoor/install/outdoor/lib/python3.10/site-packages/outdoor-0.0.0-py3.10.egg-info
+[0.586s] running install_scripts
+[0.599s] writing list of installed files to '/home/ryan/Desktop/CS560env/CS560IndoorOutdoorEnv/outdoor/build/outdoor/install.log'
+[0.615s] Invoked command in '/home/ryan/Desktop/CS560env/CS560IndoorOutdoorEnv/outdoor' returned '0': PYTHONPATH=/home/ryan/Desktop/CS560env/CS560IndoorOutdoorEnv/outdoor/build/outdoor/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ryan/Desktop/CS560env/CS560IndoorOutdoorEnv/outdoor/install/outdoor/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base build/outdoor build --build-base /home/ryan/Desktop/CS560env/CS560IndoorOutdoorEnv/outdoor/build/outdoor/build install --record /home/ryan/Desktop/CS560env/CS560IndoorOutdoorEnv/outdoor/build/outdoor/install.log --single-version-externally-managed install_data

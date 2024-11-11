@@ -1,0 +1,35 @@
+running egg_info
+creating build/outdoor/outdoor.egg-info
+writing build/outdoor/outdoor.egg-info/PKG-INFO
+writing dependency_links to build/outdoor/outdoor.egg-info/dependency_links.txt
+writing entry points to build/outdoor/outdoor.egg-info/entry_points.txt
+writing requirements to build/outdoor/outdoor.egg-info/requires.txt
+writing top-level names to build/outdoor/outdoor.egg-info/top_level.txt
+writing manifest file 'build/outdoor/outdoor.egg-info/SOURCES.txt'
+reading manifest file 'build/outdoor/outdoor.egg-info/SOURCES.txt'
+writing manifest file 'build/outdoor/outdoor.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/ryan/Desktop/CS560env/CS560IndoorOutdoorEnv/outdoor/build/outdoor/build
+creating /home/ryan/Desktop/CS560env/CS560IndoorOutdoorEnv/outdoor/build/outdoor/build/lib
+creating /home/ryan/Desktop/CS560env/CS560IndoorOutdoorEnv/outdoor/build/outdoor/build/lib/outdoor
+copying outdoor/__init__.py -> /home/ryan/Desktop/CS560env/CS560IndoorOutdoorEnv/outdoor/build/outdoor/build/lib/outdoor
+running install
+running install_lib
+creating /home/ryan/Desktop/CS560env/CS560IndoorOutdoorEnv/outdoor/install/outdoor/lib/python3.10/site-packages/outdoor
+copying /home/ryan/Desktop/CS560env/CS560IndoorOutdoorEnv/outdoor/build/outdoor/build/lib/outdoor/__init__.py -> /home/ryan/Desktop/CS560env/CS560IndoorOutdoorEnv/outdoor/install/outdoor/lib/python3.10/site-packages/outdoor
+byte-compiling /home/ryan/Desktop/CS560env/CS560IndoorOutdoorEnv/outdoor/install/outdoor/lib/python3.10/site-packages/outdoor/__init__.py to __init__.cpython-310.pyc
+running install_data
+creating /home/ryan/Desktop/CS560env/CS560IndoorOutdoorEnv/outdoor/install/outdoor/share/ament_index
+creating /home/ryan/Desktop/CS560env/CS560IndoorOutdoorEnv/outdoor/install/outdoor/share/ament_index/resource_index
+creating /home/ryan/Desktop/CS560env/CS560IndoorOutdoorEnv/outdoor/install/outdoor/share/ament_index/resource_index/packages
+copying resource/outdoor -> /home/ryan/Desktop/CS560env/CS560IndoorOutdoorEnv/outdoor/install/outdoor/share/ament_index/resource_index/packages
+copying package.xml -> /home/ryan/Desktop/CS560env/CS560IndoorOutdoorEnv/outdoor/install/outdoor/share/outdoor
+creating /home/ryan/Desktop/CS560env/CS560IndoorOutdoorEnv/outdoor/install/outdoor/share/outdoor/launch
+copying launch/webots_launch.py -> /home/ryan/Desktop/CS560env/CS560IndoorOutdoorEnv/outdoor/install/outdoor/share/outdoor/launch
+creating /home/ryan/Desktop/CS560env/CS560IndoorOutdoorEnv/outdoor/install/outdoor/share/outdoor/worlds
+copying worlds/my_world.wbt -> /home/ryan/Desktop/CS560env/CS560IndoorOutdoorEnv/outdoor/install/outdoor/share/outdoor/worlds
+running install_egg_info
+Copying build/outdoor/outdoor.egg-info to /home/ryan/Desktop/CS560env/CS560IndoorOutdoorEnv/outdoor/install/outdoor/lib/python3.10/site-packages/outdoor-0.0.0-py3.10.egg-info
+running install_scripts
+writing list of installed files to '/home/ryan/Desktop/CS560env/CS560IndoorOutdoorEnv/outdoor/build/outdoor/install.log'
